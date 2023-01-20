@@ -3,7 +3,7 @@
 # Data Verification and Encoding Script
 
 This script is designed to read in a dataset file, verify that the data is in the correct format, and perform one-hot or label encoding on a specified categorical feature.
-###Please look at the report I have added, it explains everything!
+### Please look at the report I have added, it explains everything!
 
 ## Usage
 * Run the script by executing ./scriptname.sh in your terminal.
